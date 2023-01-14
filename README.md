@@ -1,6 +1,7 @@
-<h1><img src="https://slackmojis.com/emojis/61879-partyblob/download" width="30" /> Hi, I'm Tee. <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30" /></h1>
+<h1><img src="https://slackmojis.com/emojis/61879-partyblob/download" width="30" /> Hi, I'm Tee. <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30" /></h1>
 
-<p>Glad to see you! </br> My name is <strong>Sukij Sunitsakul</strong>, Junior computer engineering at <img src="https://slackmojis.com/emojis/28039-study/download" width="20" /> Chulalongkorn university. </p>
+<h4><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"> Glad to see you!</h4>
+<p>My name is <strong>Sukij Sunitsakul</strong>, Junior computer engineering at <img src="https://slackmojis.com/emojis/28039-study/download" width="20" /> Chulalongkorn university.</p> 
 
 ## About me
 - <img src="https://slackmojis.com/emojis/50100-school2/download" width="18" /> Mathematics & Science major at __Chonradsadornumrung school__, 2014-2020
