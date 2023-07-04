@@ -3,11 +3,11 @@
 <h4><img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="20"> Glad to see you!</h4>
 <p>My name is <strong>Sukij Sunitsakul</strong>, Junior computer engineering at <img src="https://slackmojis.com/emojis/28039-study/download" width="20" /> Chulalongkorn university.</p> 
 
-## About me
+## About me <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25" />
 - <img src="https://slackmojis.com/emojis/50100-school2/download" width="18" /> Mathematics & Science major at __Chonradsadornumrung school__, 2014-2020
 - <img src="https://slackmojis.com/emojis/54804-university/download" width="20" /> Computer engineering (CP) student at __Chulalongkorn university__, 2020-Present
 
-## Skills and Tools <img src="https://slackmojis.com/emojis/10521-meow_code/download"  width="30"/>
+## Skills and Tools <img src="https://slackmojis.com/emojis/10521-meow_code/download"  width="25"/>
 
 ### Programming languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +25,7 @@
 ## Internship <img src="https://slackmojis.com/emojis/8271-blob-dab/download" width="25" />
 - Software Engineer: _Boonmee Lab_ <img src="https://cms.bml.meeboon.dev/uploads/large_BML_79a6bf48a3.png"  width="100"/>
 
-## Where to find me
+## Where to find me <img src="https://slackmojis.com/emojis/8264-blob-sign-yes/download" width="30" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white")](https://github.com/TeeSSK)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukij-sunitsakul/)
