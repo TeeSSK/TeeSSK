@@ -22,7 +22,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt.js](https://img.shields.io/badge/nuxtjs-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-## Internship
+## Internship <img src="https://slackmojis.com/emojis/8271-blob-dab/download" width="25" />
 - Software Engineer: _Boonmee Lab_ 
 
 ## Where to find me
