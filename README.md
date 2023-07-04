@@ -25,7 +25,8 @@
 ## Internship
 - Software Engineer: _Boonmee Lab_ <img src="https://cms.bml.meeboon.dev/uploads/large_BML_79a6bf48a3.png"  width="100"/>
 
-## Where to find me
+## Where to find me <img src="https://github.com/TeeSSK/TeeSSK/assets/89092649/77555a8b-0ff6-4da9-915e-e234eb32e8ce" width="25" /> 
+
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white")](https://github.com/TeeSSK)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukij-sunitsakul/)
 
