@@ -14,7 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![skooldio](https://github.com/TeeSSK/TeeSSK/assets/89092649/e9717afe-de52-440a-8295-b5c4f8d9be0c)
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +24,7 @@
 
 ## Internship <img src="https://slackmojis.com/emojis/8271-blob-dab/download" width="25" />
 - Software Engineer: _Boonmee Lab_ <img src="https://cms.bml.meeboon.dev/uploads/large_BML_79a6bf48a3.png"  width="100"/>
-- Software Engineer: _Skooleio_
+- Software Engineer: _Skooldio_ <img src="https://github.com/TeeSSK/TeeSSK/assets/89092649/e9717afe-de52-440a-8295-b5c4f8d9be0c" width="100" height="25" />
 
 ## Where to find me <img src="https://slackmojis.com/emojis/8264-blob-sign-yes/download" width="30" />
 
