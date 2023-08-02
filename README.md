@@ -24,7 +24,9 @@
 
 ## Internship <img src="https://slackmojis.com/emojis/8271-blob-dab/download" width="25" />
 - Software Engineer: _Boonmee Lab_ <img src="https://cms.bml.meeboon.dev/uploads/large_BML_79a6bf48a3.png"  width="100"/>
-- Software Engineer: _Skooldio_ <img src="https://github.com/TeeSSK/TeeSSK/assets/89092649/e9717afe-de52-440a-8295-b5c4f8d9be0c" width="100" height="25" />
+- Software Engineer: _Skooldio_ <img src="https://github.com/TeeSSK/TeeSSK/assets/89092649/f438f04d-29db-4437-896a-ec175145ce97" width="100" />
+
+
 
 ## Where to find me <img src="https://slackmojis.com/emojis/8264-blob-sign-yes/download" width="30" />
 
